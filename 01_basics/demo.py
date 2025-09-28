@@ -12,3 +12,11 @@ print('good morning')
 # print(hello) # NameError: name 'hello' is not defined. Did you mean: 'help'?
 hello = "hello hi"
 print(hello)
+
+# name is identifier
+
+# class = "10th Standard"  # SyntaxError: Class is a keyword
+classes = "10th Standard"
+print(classes)  
+
+print("class")

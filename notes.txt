@@ -1,5 +1,5 @@
 ### **BACKEND - PYTHON**
-
+Class-1 Intro
 
 
 ##### **Hardware spec:**
@@ -45,3 +45,25 @@
             4) project is copied inside your laptop - Local Repository
 
             5) First Clone --> Local Repository == Remote Repository
+
+Class-2
+
+
+--> Any Programming language has syntax (Rules & Guidelines)
+--> Comparing a language like English with Python
+    -> English has 26 Alphabets
+    -> Python has keywords
+--> Keywords: Predefined words, which holds special meaning to python Interpreter
+     -> List of keywords: https://docs.python.org/3/reference/lexical_analysis.html#keywords
+     -> We have 35 keywords
+           
+             False      await      else       import     pass
+             None       break      except     in         raise
+             True       class      finally    is         return
+             and        continue   for        lambda     try
+             as         def        from       nonlocal   while
+             assert     del        global     not        with
+             async      elif       if         or         yield
+
+--> Keywords + Syntax = Program/Application
+--> NOTE: Keywords cannot be used as identifiers
