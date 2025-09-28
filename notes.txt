@@ -1,0 +1,47 @@
+### **BACKEND - PYTHON**
+
+
+
+##### **Hardware spec:**
+
+1. i5/i3 processor
+2. 8GB Ram
+3. 500GB HDD 
+
+
+
+##### **Software spec:**
+
+1. Setup Python (python.org)
+2. IDE: Integrated Development Environment (Visual studio code) for writing code
+3. Version Control System: Helps you keep track of code
+
+       a) In version control the project is called as repository(Holds project code + Tracking history)
+
+       b) Changes: Commits
+
+       c) System we use,
+
+   
+
+           1) Git: Client Software installed in developer laptop, to start tracking code
+
+           2) GitHub: Platform which enables to store Source code (github.com)
+
+  
+
+        d) Workflow:
+
+    
+
+            1) As a developer you create an account on GitHub (github.com)
+
+            2) On GitHub we create Repository (Remote Repository) - Unique URL
+
+            3) Clone (Remote Repository) using - Unique URL
+
+              -> Clone(Copying) to laptop i.e project is copied inside your laptop
+
+            4) project is copied inside your laptop - Local Repository
+
+            5) First Clone --> Local Repository == Remote Repository
